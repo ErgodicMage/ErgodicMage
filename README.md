@@ -2,7 +2,7 @@ Welcome to ErgodicMage's GitHub repositories!
 
 I have been developing since 1980 and have programmed in many languages across many platforms. Since 2005 my development efforts have been almost exclusively with .Net, starting .Net 1.1 then 3.5, 4.6, 4.7 and 4.8 till today with .Net 6. The repositories are mostly my experminetal side programming to learn .Net 6 and modernize my development skills using newer techniques which were not available back when I started with .Net.
 
-The repositories I have on GitHub are:
+The repositories I have on GitHub are:  
 **StellarMap**  
 A core library for organizing stars, planets and so forth so that they can be mapped and analyzed similar to other star catalogs. It includes two expansions on the core library. Progression which is my own fictional science fiction setting that uses real stars grouped together as Clusters, Sectors and more with rules for wormhole travel detailed in [Rules.md](https://github.com/ErgodicMage/StellarMap/blob/master/src/StellarSystems/Progression/Rules.md). There is also an experiment to convert Traveller maps to StellarMap with the possibility of replacing Traveller's jump system with Progression's workhole travel. This was my first github project and I will update it from time to time with new features and modern programming styles.
 
