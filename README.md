@@ -6,7 +6,7 @@ The repositories I have on GitHub are:
 **StellarMap**  
 A core library for organizing stars, planets and so forth so that they can be mapped and analyzed similar to other star catalogs. It includes two expansions on the core library. Progression which is my own fictional science fiction setting that uses real stars grouped together as Clusters, Sectors and more with rules for wormhole travel detailed in [Rules.md](https://github.com/ErgodicMage/StellarMap/blob/master/src/StellarSystems/Progression/Rules.md). There is also an experiment to convert Traveller maps to StellarMap with the possibility of replacing Traveller's jump system with Progression's workhole travel. This was my first github project and I will update it from time to time with new features and modern programming styles.
 
-**DapperDAL**  
+**DapperRepository**  
 Enhances [Dapper](https://github.com/DapperLib/Dapper) with CRUD capabilites that works with entity classes using custom attributes to generate the sql needed for Get, Insert, Update and Delete. From there it uses the lower level enhancements to provide the framework for implementing Repository Patern around the entities.
 
 **FileSystemProcessor**  
