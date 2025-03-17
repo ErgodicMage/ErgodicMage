@@ -1,6 +1,6 @@
 Welcome to ErgodicMage's GitHub repositories!
 
-I have been developing since 1980 and have programmed in many languages across many platforms. Since 2005 my development efforts have been almost exclusively with .Net, starting .Net 1.1 then 3.5, 4.6, 4.7 and 4.8 till today with .Net 6. The repositories are mostly my experminetal side programming to learn .Net 6 and modernize my development skills using newer techniques which were not available back when I started with .Net.
+I have been developing since 1980 and have programmed in many languages across many platforms. Since 2005 my development efforts have been almost exclusively with .Net, starting .Net 1.1 then 3.5, 4.6, 4.7 and 4.8 till today with .Net p. The repositories are mostly my experminetal side programming to learn .Net 9 and modernize my development skills using newer techniques which were not available back when I started with .Net.
 
 The repositories I have on GitHub are:  
 **Result**
